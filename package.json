@@ -1,0 +1,22 @@
+{
+  "name": "babel-conf",
+  "version": "1.0.0",
+  "description": "configure for babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galenjiang/babel-conf.git"
+  },
+  "keywords": [
+    "babel"
+  ],
+  "author": "galen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galenjiang/babel-conf/issues"
+  },
+  "homepage": "https://github.com/galenjiang/babel-conf#readme"
+}
